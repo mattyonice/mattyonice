@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattyonice
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning .net stack
+- 🌱 I’m currently learning the .net stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
