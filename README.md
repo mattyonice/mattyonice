@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mattyonice
+- 👋 Hi,
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning the .net stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- But as I started with C#, .net core, I have inevitably wandered into the free for all garden of Javascript, which is leading to React.
 
 <!---
 mattyonice/mattyonice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
