@@ -1,6 +1,6 @@
-- 👋 Hi, I CRUD with:
+- 👋 i curd with
 - 🌱 .net + js + react
-- :mango:	and sometimes unity
+- :mango:	and unity
 
 <!---
 mattyonice/mattyonice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
