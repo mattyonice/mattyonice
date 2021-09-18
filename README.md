@@ -1,5 +1,5 @@
-- 👋 Hi,
-- 🌱 I CRUD with .net + js + react
+- 👋 Hi, I CRUD with:
+- 🌱 .net + js + react
 
 <!---
 mattyonice/mattyonice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
