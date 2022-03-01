@@ -1,4 +1,4 @@
-- 👋 i'm a .net curdder
+- 👋 .net curdder
 - ⚛️ frontend: js + react
 - :soccer: and unity
 <!---
