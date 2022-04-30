@@ -1,6 +1,7 @@
-- 👋 .net curd
-- ⚛️ frontend: js + react
-- :soccer: unity
+- .net curd
+- frontend: js + html + css
+- unity
+- python, pandas
 
 <!---
 mattyonice/mattyonice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
