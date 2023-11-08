@@ -1,6 +1,5 @@
 - .net
 - javascript, html, css
-- python, pandas
 - unity
 
 
